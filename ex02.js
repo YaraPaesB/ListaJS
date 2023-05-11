@@ -6,5 +6,5 @@ function mathPow() {
 
    tot = Math.pow(x,y)
     document.querySelector("#text").value = "Resultado exibido no console."
-    console.log(tot)
+    console.log(tot);
 }

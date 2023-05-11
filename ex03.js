@@ -12,5 +12,5 @@ function mathMin() {
 function ex05() {
     let numsArray = mathMin()[1]
 
-    console.log(numsArray)
+    console.log(numsArray);
 }

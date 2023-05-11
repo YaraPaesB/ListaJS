@@ -12,7 +12,7 @@ let dados={
 function ex05() {
     let segundoValArray = mathMin()[1]
     let {
-        marca, 
+        marca,
         config: {
             processador
         }
