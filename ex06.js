@@ -1,0 +1,1 @@
+document.querySelector("#btn-06").addEventListener("click", dados.exibir)

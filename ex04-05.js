@@ -6,7 +6,10 @@ let dados={
     config:{ 
         memoria: 8,
         processador: "i7" 
-    },  
+    },
+    exibir: function() {
+        alert(`O equipamento é um ${dados.marca} ${dados.config.processador}`)
+    }
 }
 
 function ex05() {
